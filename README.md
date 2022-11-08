@@ -1,2 +1,3 @@
 # 99-camls
-The famous 99 problems in OCaml
+
+My (work in progress) solutions to the famous [99 exercises in OCaml](https://ocaml.org/problems).
